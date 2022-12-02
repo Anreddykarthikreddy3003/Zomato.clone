@@ -1,0 +1,433 @@
+[{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b80"
+  },
+  "name": "Kadhai Paneer",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b29"
+  },
+  "image": "assets/kadaipan.jpg",
+  "qty": 0,
+  "price": "200"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b81"
+  },
+  "name": "Butter Paneer",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b29"
+  },
+  "image": "assets/butterpan.jpg",
+  "qty": 0,
+  "price": "230"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b82"
+  },
+  "name": "Butter Chicken",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b29"
+  },
+  "image": "assets/butterchic.jpg",
+  "qty": 0,
+  "price": "420"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b83"
+  },
+  "name": "Margerita",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b26"
+  },
+  "image": "assets/marg.jpg",
+  "qty": 0,
+  "price": "299"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b84"
+  },
+  "name": "Cheese Pizza",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b26"
+  },
+  "image": "assets/cheese.jpg",
+  "qty": 0,
+  "price": "199"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b85"
+  },
+  "name": "Evergreen Chicken Pizza",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b26"
+  },
+  "image": "assets/everchic.jpg",
+  "qty": 0,
+  "price": "265"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b86"
+  },
+  "name": "Chicken Bucket 8 Pcs",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b27"
+  },
+  "image": "assets/8pkfc.jpg",
+  "qty": 0,
+  "price": "849"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b87"
+  },
+  "name": "Chicken Bucket 4 Pcs",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b27"
+  },
+  "image": "assets/4pckfc.jpg",
+  "qty": 0,
+  "price": "349"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b88"
+  },
+  "name": "Chicken Bucket 16 Pcs",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b27"
+  },
+  "image": "assets/4pckfc.jpg",
+  "qty": 0,
+  "price": "1469"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b89"
+  },
+  "name": "Veg Cheese Burger",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b28"
+  },
+  "image": "assets/vegburger.jpeg",
+  "qty": 0,
+  "price": "99"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b8a"
+  },
+  "name": "Chicken Burger",
+  "description": "Made with paneer and some quick spicy content like chilly and flakes.",
+  "ingredients": [
+    "Paneer",
+    "Tomato"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b28"
+  },
+  "image": "assets/chicken-burger.jpg",
+  "qty": 0,
+  "price": "149"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b8b"
+  },
+  "name": "Chocolate Mocha",
+  "description": "Made with chocolate and some quick ice cream and milk",
+  "ingredients": [
+    "Milk",
+    "Chocolate"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2d"
+  },
+  "image": "assets/chocmoc.jpg",
+  "qty": 0,
+  "price": "179"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b8c"
+  },
+  "name": "Grilled Garlic Prawns",
+  "description": "Made in barbecue sauce",
+  "ingredients": [
+    "Prawns",
+    "Garlic"
+  ],
+  "restaurantId": {
+    "$oid": "630f91f9db8e1d9f0daaafa3"
+  },
+  "image": "assets/grillprawn.jpg",
+  "qty": 0,
+  "price": "1299"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b8d"
+  },
+  "name": "Lamb Chicken Chops",
+  "description": "Made with Lamb and Chicken.",
+  "ingredients": [
+    "Herb",
+    "Lamb"
+  ],
+  "restaurantId": {
+    "$oid": "630f91f9db8e1d9f0daaafa3"
+  },
+  "image": "assets/lamb.jpg",
+  "qty": 0,
+  "price": "249"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b8e"
+  },
+  "name": "Non Veg Platter",
+  "description": "Made with chicken and lamb.",
+  "ingredients": [
+    "Chicken",
+    "Lamb"
+  ],
+  "restaurantId": {
+    "$oid": "630f91f9db8e1d9f0daaafa3"
+  },
+  "image": "assets/nonplatter.jpg",
+  "qty": 0,
+  "price": "1553"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b8f"
+  },
+  "name": "Classic Donut",
+  "description": "Made with original glaze.",
+  "ingredients": [
+    "Bubblegum",
+    "Milk"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2b"
+  },
+  "image": "assets/classicdo.jpg",
+  "qty": 0,
+  "price": "59"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b90"
+  },
+  "name": "Dark Knight",
+  "description": "Made with Cookies and chocolate.",
+  "ingredients": [
+    "Cookies",
+    "Chocolate"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2b"
+  },
+  "image": "assets/dark.jpg",
+  "qty": 0,
+  "price": "83"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b91"
+  },
+  "name": "Oreo Shake",
+  "description": "Made with oreo and milk.",
+  "ingredients": [
+    "Oreo",
+    "Milk"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2b"
+  },
+  "image": "assets/oreo.jpg",
+  "qty": 0,
+  "price": "199"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b92"
+  },
+  "name": "Chole Bathure",
+  "description": "Made with chole and bathure.",
+  "ingredients": [
+    "Chole",
+    "Bathure"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2c"
+  },
+  "image": "assets/gopal1.jpg",
+  "qty": 0,
+  "price": "135"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b93"
+  },
+  "name": "Pav Bhaji",
+  "description": "Made with Pav and Pulses.",
+  "ingredients": [
+    "Pav",
+    "Bhaji"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2c"
+  },
+  "image": "assets/pavbhaji.jpg",
+  "qty": 0,
+  "price": "140"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b94"
+  },
+  "name": "Achaari Pizza",
+  "description": "Made with bread and achaar.",
+  "ingredients": [
+    "Achaar",
+    "Cream"
+  ],
+  "restaurantId": {
+    "$oid": "6388a9616deb081c05124c14"
+  },
+  "image": "assets/drinks.png",
+  "qty": 0,
+  "price": "275"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b95"
+  },
+  "name": "Bubblegum",
+  "description": "Made with bubblegum and milk.",
+  "ingredients": [
+    "Bubblegum",
+    "Milk"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2d"
+  },
+  "image": "assets/bubble.jpg",
+  "qty": 0,
+  "price": "189"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b96"
+  },
+  "name": "Bubblegum",
+  "description": "Made with bubblegum and milk.",
+  "ingredients": [
+    "Bubblegum",
+    "Milk"
+  ],
+  "restaurantId": {
+    "$oid": "6388a96c6deb081c05124c16"
+  },
+  "image": "assets/drinks.png",
+  "qty": 0,
+  "price": "189"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b97"
+  },
+  "name": "Bread Omelette",
+  "description": "Made with bread and butter.",
+  "ingredients": [
+    "bread",
+    "Omelette"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2a"
+  },
+  "image": "assets/breadoml.jpg",
+  "qty": 0,
+  "price": "75"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b98"
+  },
+  "name": "Chicken Burger",
+  "description": "Made with chicken and burger.",
+  "ingredients": [
+    "chicken",
+    "Burger"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2a"
+  },
+  "image": "assets/chicbur.jpg",
+  "qty": 0,
+  "price": "70"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b99"
+  },
+  "name": "Chicken Lollipop",
+  "description": "Made with Chicken ",
+  "ingredients": [
+    "Chicken",
+    "Legs"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2a"
+  },
+  "image": "assets/chicloli.jpg",
+  "qty": 0,
+  "price": "160"
+},{
+  "_id": {
+    "$oid": "63888cb26deb081c05124b9c"
+  },
+  "name": "Fruit Juices",
+  "description": "Made with papaya, mango, strawberry and milk.",
+  "ingredients": [
+    "Fruits",
+    "Milk"
+  ],
+  "restaurantId": {
+    "$oid": "63887bd56deb081c05124b2d"
+  },
+  "image": "assets/fruitjuice.jpg",
+  "qty": 0,
+  "price": "92"
+}]

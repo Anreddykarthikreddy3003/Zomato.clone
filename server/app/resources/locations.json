@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "63887bab6deb081c05124af7"
+  },
+  "name": "Shalimar Bagh",
+  "city_id": 1,
+  "location_id": 1,
+  "city": "Delhi",
+  "country_name": "India"
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124af8"
+  },
+  "name": "Janpat",
+  "city_id": 1,
+  "location_id": 2,
+  "city": "Delhi",
+  "country_name": "India"
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124af9"
+  },
+  "name": "MSP",
+  "city_id": 1,
+  "location_id": 3,
+  "city": "Delhi",
+  "country_name": "India"
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124afa"
+  },
+  "name": "MSP",
+  "city_id": 2,
+  "location_id": 4,
+  "city": "Pune",
+  "country_name": "India"
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124afb"
+  },
+  "name": "Anand Vihar",
+  "city_id": 1,
+  "location_id": 5,
+  "city": "Delhi",
+  "country_name": "India"
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124afc"
+  },
+  "name": "VIP Road",
+  "city": "Chandigarh",
+  "city_id": 3,
+  "location_id": 6,
+  "country_name": "India",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124afd"
+  },
+  "name": "Mapusa",
+  "city": "Goa",
+  "city_id": 4,
+  "location_id": 7,
+  "country_name": "India",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124afe"
+  },
+  "name": "Vile Parle East",
+  "city": "Mumbai",
+  "city_id": 5,
+  "location_id": 8,
+  "country_name": "India",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63887bab6deb081c05124aff"
+  },
+  "name": "BullBhai Desai Road",
+  "city": "Mumbai",
+  "city_id": 5,
+  "location_id": 9,
+  "country_name": "India",
+  "__v": 0
+}]
